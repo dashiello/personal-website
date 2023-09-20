@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="56.468mm" height="56.468mm" version="1.1" viewBox="0 0 56.468 56.468" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker2502" overflow="visible" markerHeight="1.9999999" markerWidth="1.05" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1.05 2">
+   <path transform="scale(.5)" d="m0-1h0.585c0.745 0 1.115-0.6 1.415-1v4c-0.3-0.4-0.67-1-1.415-1h-0.585l-0.1-1z" fill="context-stroke"/>
+  </marker>
+  <marker id="marker2370" overflow="visible" markerHeight="1.9999999" markerWidth="1.05" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1.05 2">
+   <path transform="scale(.5)" d="m0-1h0.585c0.745 0 1.115-0.6 1.415-1v4c-0.3-0.4-0.67-1-1.415-1h-0.585l-0.1-1z" fill="context-stroke"/>
+  </marker>
+  <marker id="marker2242" overflow="visible" markerHeight="1.9999999" markerWidth="1.05" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1.05 2">
+   <path transform="scale(.5)" d="m0-1h0.585c0.745 0 1.115-0.6 1.415-1v4c-0.3-0.4-0.67-1-1.415-1h-0.585l-0.1-1z" fill="context-stroke"/>
+  </marker>
+  <marker id="Cap4" overflow="visible" markerHeight="1.9999999" markerWidth="1.05" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1.05 2">
+   <path transform="scale(.5)" d="m0-1h0.585c0.745 0 1.115-0.6 1.415-1v4c-0.3-0.4-0.67-1-1.415-1h-0.585l-0.1-1z" fill="context-stroke"/>
+  </marker>
+ </defs>
+ <g transform="translate(-44.597 -90.016)">
+  <rect x="45.597" y="91.016" width="54.468" height="54.468" fill="#1a244f" stroke="#000" stroke-width="2"/>
+  <path d="m67.074 98.224s-0.04603 20.358-0.04603 38.209c0 5.6151-10.56 5.2889-10.56-1.3926 0-16.09 34.878 11.839 34.878-15.114 0-6.637-2.462-10.258-10.011-10.258-14.492 0-26.184 4.796-26.184 4.796" fill="none" marker-end="url(#marker2502)" marker-start="url(#Cap4)" stroke="#fff" stroke-width="5"/>
+  <path d="m75.647 99.864-16.56 3.8891" fill="none" marker-end="url(#marker2370)" marker-start="url(#marker2242)" stroke="#fff" stroke-width="5"/>
+ </g>
+</svg>
