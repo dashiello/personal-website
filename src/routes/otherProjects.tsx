@@ -2,9 +2,9 @@ import OtherProjectsPage from "@/components/pages/otherProjects/otherProjectsPag
 import { createFileRoute } from "@tanstack/react-router";
 
 export const Route = createFileRoute("/otherProjects")({
-  component: Index,
+  component: OtherProjects,
 });
 
-function Index() {
+function OtherProjects() {
   return <OtherProjectsPage />;
 }

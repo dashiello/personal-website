@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My personal website",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
