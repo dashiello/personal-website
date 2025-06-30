@@ -1,0 +1,9 @@
+@use "themes.module.scss";
+
+:root {
+  color: var(--primary-text);
+  background-color: var(--primary-background);
+}
+svg {
+  fill: var(--primary-text);
+}

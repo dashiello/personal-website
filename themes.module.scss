@@ -1,0 +1,26 @@
+@property --primary-text {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: black;
+}
+
+@property --primary-background {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: white;
+}
+
+.dark {
+  --primary-text: white;
+  --primary-background: black;
+}
+
+.light {
+  --primary-text: black;
+  --primary-background: white;
+}
+
+.green {
+  --primary-text: rgb(200, 233, 162);
+  --primary-background: rgb(10, 109, 51);
+}

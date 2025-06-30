@@ -15,6 +15,24 @@ declare module "@tanstack/react-router" {
   }
 }
 
+const root = document.querySelector(":root");
+if (root) {
+  const localColorScheme = localStorage.getItem("color-scheme");
+  if (localColorScheme) {
+    root.className = localColorScheme;
+  } else {
+    const prefersDarkColorScheme = window.matchMedia(
+      "(prefers-color-scheme: dark)",
+    );
+
+    if (prefersDarkColorScheme.matches) {
+      root.className = "dark";
+    } else {
+      root.className = "light";
+    }
+  }
+}
+
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <RouterProvider router={router} />
